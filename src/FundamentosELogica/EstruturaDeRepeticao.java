@@ -34,7 +34,11 @@ public class ExemploWhile {
 }
 }
 }
+*/
 
+
+
+/*
 
 2- A Estrutura for (Para)
  O for é usado quando você sabe exatamente o limite da repetição.
@@ -59,6 +63,8 @@ public class exemploFor {
 }
 
 */
+
+
 
 
 //                          EXERCÍCIO PRÁTICO
@@ -88,7 +94,8 @@ public class EstruturaDeRepeticao {
     }
 }
 
-/* O que acontece dentro do LOOP:
+/*
+ O que acontece dentro do LOOP:
 Agora, o que o programa faz toda vez que ele der uma volta:
 
 . O Cálculo: Ele pega o número que o usúario digitou e multiplica pelo valor atual da
